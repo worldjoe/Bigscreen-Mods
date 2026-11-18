@@ -7,9 +7,9 @@ affiliated with Bigscreen, Inc.
 
 | Mod | What it does | Download |
 | --- | --- | --- |
-| [Bigscreen Passthrough](https://github.com/worldjoe/BigscreenPassthrough) | Applies a chroma background for Virtual Desktop VR Passthrough. | [Latest release](https://github.com/worldjoe/BigscreenPassthrough/releases/latest) |
-| [Bigscreen Multi 3D](https://github.com/worldjoe/BigscreenMulti3d) | Sets 2D, side-by-side, or over-under independently for personal monitors 2 and 3. | [Latest release](https://github.com/worldjoe/BigscreenMulti3d/releases/latest) |
-| [Bigscreen Screen Grab](https://github.com/worldjoe/BigscreenScreenGrab) | Moves and resizes the main screen; includes Cam 2 follow for streaming. | [Latest release](https://github.com/worldjoe/BigscreenScreenGrab/releases/latest) |
+| [Bigscreen Passthrough](https://github.com/worldjoe/BigscreenPassthrough) | Applies a chroma background for Virtual Desktop VR Passthrough so that you only see the movie and avatars in the room with you. | [Latest release](https://github.com/worldjoe/BigscreenPassthrough/releases/latest) |
+| [Bigscreen Multi 3D](https://github.com/worldjoe/BigscreenMulti3d) |  Set 2D, side-by-side, or over-under independently for personal monitors 2 and 3. | [Latest release](https://github.com/worldjoe/BigscreenMulti3d/releases/latest) |
+| [Bigscreen Screen Grab](https://github.com/worldjoe/BigscreenScreenGrab) | MAllows you to move and resize the main screen to wherever you want it (everyone else will still see it in the normal location); includes Cam 2 follow for streaming. | [Latest release](https://github.com/worldjoe/BigscreenScreenGrab/releases/latest) |
 | [Bigscreen Moderator Alerts](https://github.com/worldjoe/BigscreenModeratorAlerts) | Provides speaking-activity alerts and block-list backup tools. | [Latest release](https://github.com/worldjoe/BigscreenModeratorAlerts/releases/latest) |
 
 ### Developer tool
